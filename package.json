@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/carlacou/git-teste/issues"
   },
-  "homepage": "https://github.com/carlacou/git-teste#readme"
+  "homepage": "https://github.com/carlacou/git-teste#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
